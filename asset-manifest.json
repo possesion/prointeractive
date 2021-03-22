@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/prointeractive/static/css/main.e95063c4.chunk.css",
-    "main.js": "/prointeractive/static/js/main.642b51f1.chunk.js",
-    "main.js.map": "/prointeractive/static/js/main.642b51f1.chunk.js.map",
+    "main.js": "/prointeractive/static/js/main.88291cad.chunk.js",
+    "main.js.map": "/prointeractive/static/js/main.88291cad.chunk.js.map",
     "runtime-main.js": "/prointeractive/static/js/runtime-main.61ec8b81.js",
     "runtime-main.js.map": "/prointeractive/static/js/runtime-main.61ec8b81.js.map",
     "static/css/2.debc5727.chunk.css": "/prointeractive/static/css/2.debc5727.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.debc5727.chunk.css",
     "static/js/2.1753dd40.chunk.js",
     "static/css/main.e95063c4.chunk.css",
-    "static/js/main.642b51f1.chunk.js"
+    "static/js/main.88291cad.chunk.js"
   ]
 }
