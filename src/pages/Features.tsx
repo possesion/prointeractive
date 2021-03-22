@@ -33,7 +33,7 @@ const Features = () => {
             <Grid item xs={2}>
               <Grid container direction="column">
                 <Grid item>
-                  <img src="/images/icon1.png" alt="icon1" />
+                  <img src="/prointeractive/images/icon1.png" alt="icon1" />
                 </Grid>
                 <Grid item>
                   <Box mb={1.5}>
@@ -55,7 +55,7 @@ const Features = () => {
             <Grid item xs={2}>
               <Grid container direction="column">
                 <Grid item>
-                  <img src="/images/icon2.png" alt="icon1" />
+                  <img src="/prointeractive/images/icon2.png" alt="icon1" />
                 </Grid>
                 <Grid item>
                   <Box mb={1.5}>
@@ -77,7 +77,7 @@ const Features = () => {
             <Grid item xs={2}>
               <Grid container direction="column">
                 <Grid item lg={12}>
-                  <img src="/images/icon3.png" alt="icon1" />
+                  <img src="/prointeractive/images/icon3.png" alt="icon1" />
                 </Grid>
                 <Grid item lg={12}>
                   <Box mb={1.5}>
@@ -99,7 +99,7 @@ const Features = () => {
             <Grid item xs={2}>
               <Grid container direction="column">
                 <Grid item lg={12}>
-                  <img src="/images/icon4.png" alt="icon1" />
+                  <img src="/prointeractive/images/icon4.png" alt="icon1" />
                 </Grid>
                 <Grid item lg={12}>
                   <Box mb={1.5}>

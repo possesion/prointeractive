@@ -37,7 +37,7 @@ const TabContent = ({ img, price, title, text, sort, weight }: ITabContent) => {
             <Grid container alignItems="center">
               <Grid item xs={2}>
                 <img
-                  src="images/coffee-beans.png"
+                  src="/prointeractive/images/coffee-beans.png"
                   alt="beans"
                   style={{ width: '26px', height: '26px' }}
                 />
@@ -56,7 +56,7 @@ const TabContent = ({ img, price, title, text, sort, weight }: ITabContent) => {
             <Grid container alignItems="center">
               <Grid item xs={4}>
                 <img
-                  src="images/mountain.png"
+                  src="/prointeractive/images/mountain.png"
                   alt="beans"
                   style={{ width: '30px', height: '25px' }}
                 />

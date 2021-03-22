@@ -14,7 +14,7 @@ const Header = () => {
   return (
     <Grid container>
       <Grid item className={classes.headerLeft}>
-        <img className={classes.logo} src="/images/revo_logo.png" alt="logo" />
+        <img className={classes.logo} src="/prointeractive/images/revo_logo.png" alt="logo" />
         <Box className={classes.headerTitle}>
           <Typography
             variant="h1"
@@ -44,14 +44,14 @@ const Header = () => {
       <Grid item className={classes.headerBg}>
         <img
           className={classes.headerBg}
-          src="/images/bgMain.png"
+          src="/prointeractive/images/bgmain.png"
           alt="background"
         />
       </Grid>
       <Grid item className={classes.headerMenu}>
         <img
             className={classes.cartIcon}
-          src="/images/CART.png"
+          src="/prointeractive/images/CART.png"
           alt="cart"
         />
         <Grid container alignItems="center" style={{ height: '100%' }}>

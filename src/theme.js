@@ -97,7 +97,7 @@ export const useStyles = makeStyles((theme) => ({
     height: '100vh',
   },
   coffeeSliderImg: {
-    width: '235px',
+    width: '235px !important',
     height: '256px',
   },
   coffeCard: {
