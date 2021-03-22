@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/prointeractive/static/css/main.e95063c4.chunk.css",
+    "main.js": "/prointeractive/static/js/main.ba2a56c8.chunk.js",
+    "main.js.map": "/prointeractive/static/js/main.ba2a56c8.chunk.js.map",
+    "runtime-main.js": "/prointeractive/static/js/runtime-main.61ec8b81.js",
+    "runtime-main.js.map": "/prointeractive/static/js/runtime-main.61ec8b81.js.map",
+    "static/css/2.debc5727.chunk.css": "/prointeractive/static/css/2.debc5727.chunk.css",
+    "static/js/2.1753dd40.chunk.js": "/prointeractive/static/js/2.1753dd40.chunk.js",
+    "static/js/2.1753dd40.chunk.js.map": "/prointeractive/static/js/2.1753dd40.chunk.js.map",
+    "static/js/3.82d841f2.chunk.js": "/prointeractive/static/js/3.82d841f2.chunk.js",
+    "static/js/3.82d841f2.chunk.js.map": "/prointeractive/static/js/3.82d841f2.chunk.js.map",
+    "index.html": "/prointeractive/index.html",
+    "static/css/2.debc5727.chunk.css.map": "/prointeractive/static/css/2.debc5727.chunk.css.map",
+    "static/css/main.e95063c4.chunk.css.map": "/prointeractive/static/css/main.e95063c4.chunk.css.map",
+    "static/js/2.1753dd40.chunk.js.LICENSE.txt": "/prointeractive/static/js/2.1753dd40.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/prointeractive/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61ec8b81.js",
+    "static/css/2.debc5727.chunk.css",
+    "static/js/2.1753dd40.chunk.js",
+    "static/css/main.e95063c4.chunk.css",
+    "static/js/main.ba2a56c8.chunk.js"
+  ]
+}
